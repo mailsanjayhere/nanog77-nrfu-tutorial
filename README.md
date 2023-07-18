@@ -1,6 +1,6 @@
 # Network Ready for Use - Test Automation
 
-Network Ready for Use (NRFU) testing ansers the question:
+Network Ready for Use (NRFU) testing answers the question:
 
 _*Does the actual operating states of the network match the expected outcomes based on the design?*_
 
